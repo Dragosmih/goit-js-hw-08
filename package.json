@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dragosmih/goit-js-hw-08"
+    "url": "git+https://github.com/Dragosmih/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Dragos Mihailescu <dragosmih@hotmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dragosmih/goit-js-hw-08/issues"
+    "url": "https://github.com/Dragosmih/goit-js-hw-08.git/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.21.0",
